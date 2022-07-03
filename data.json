@@ -1,0 +1,8 @@
+{
+    "apps": {
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "vscode": "C:\\Users\\danir\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "cmd": "C:\\WINDOWS\\system32\\cmd.exe",
+        "notion": "C:\\Users\\danir\\AppData\\Local\\Programs\\Notion\\Notion.exe"
+    }
+}
