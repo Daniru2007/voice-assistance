@@ -1,6 +1,6 @@
 import json
 import os
-import pywhatkit
+import webbrowser
 
 from commands import load_data, start_app
 
@@ -30,4 +30,4 @@ while True:
 
     if "search" in command:
         query = command.replace("search", "")
-        pywhatkit.search(query)
+        os.system(f"start https://www.google.com/search?q={query.replace(' ', '+')}")
